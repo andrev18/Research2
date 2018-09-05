@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsp-api-2.1">
+    <CLASSES>
+      <root url="jar://C:/Hadoop-2.8.0/share/hadoop/common/lib/jsp-api-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
